@@ -9,6 +9,6 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    -collections
-    -sklearn
-    -seaborn
+    - collections
+    - sklearn
+    - seaborn
