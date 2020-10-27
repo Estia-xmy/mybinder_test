@@ -8,7 +8,6 @@ dependencies:
     - scikit-learn
     - matplotlib
     - pandas
-    - thinc
     - collections
     - sklearn
     - seaborn
